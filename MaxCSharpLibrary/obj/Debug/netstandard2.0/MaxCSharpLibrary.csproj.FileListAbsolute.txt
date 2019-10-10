@@ -1,0 +1,8 @@
+C:\Users\s0896\source\repos\MaxCSharpLibrary\MaxCSharpLibrary\bin\Debug\netstandard2.0\MaxCSharpLibrary.deps.json
+C:\Users\s0896\source\repos\MaxCSharpLibrary\MaxCSharpLibrary\bin\Debug\netstandard2.0\MaxCSharpLibrary.dll
+C:\Users\s0896\source\repos\MaxCSharpLibrary\MaxCSharpLibrary\bin\Debug\netstandard2.0\MaxCSharpLibrary.pdb
+C:\Users\s0896\source\repos\MaxCSharpLibrary\MaxCSharpLibrary\obj\Debug\netstandard2.0\MaxCSharpLibrary.csprojAssemblyReference.cache
+C:\Users\s0896\source\repos\MaxCSharpLibrary\MaxCSharpLibrary\obj\Debug\netstandard2.0\MaxCSharpLibrary.AssemblyInfoInputs.cache
+C:\Users\s0896\source\repos\MaxCSharpLibrary\MaxCSharpLibrary\obj\Debug\netstandard2.0\MaxCSharpLibrary.AssemblyInfo.cs
+C:\Users\s0896\source\repos\MaxCSharpLibrary\MaxCSharpLibrary\obj\Debug\netstandard2.0\MaxCSharpLibrary.dll
+C:\Users\s0896\source\repos\MaxCSharpLibrary\MaxCSharpLibrary\obj\Debug\netstandard2.0\MaxCSharpLibrary.pdb
